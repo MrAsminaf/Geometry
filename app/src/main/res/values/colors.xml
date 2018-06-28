@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b30000</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="backgroundWhite">#ffffff</color>
+    <color name="backgroundGrey">#d9d9d9</color>
+    <color name="backgroundDarkGrey">#4d4d4d</color>
+    <color name="buttonColor">#cc0000</color>
+    <color name="appBarGradientEndColor">#990000</color>
+    <color name="menuOptionBorder">#595959</color>
+</resources>
